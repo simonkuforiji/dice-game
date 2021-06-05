@@ -1,0 +1,45 @@
+body {
+    background-color: #413c69;
+    text-align: center;
+    font-family: 'Lobster', cursive;
+    color: #a7c5eb;
+}
+
+h1 {
+    font-size: 2em;
+}
+
+h6 {
+    font-size: 0.5em;
+}
+
+.diceIconRow {
+    font-size: 5em;
+}
+
+.align_right {
+    text-align: right;
+}
+
+.align_left {
+    text-align: left;
+}
+
+.fas {
+    color: #bd2000;
+}
+
+.mainHeading .fa-flag {
+    font-size: 0.5em;
+}
+
+#footer {
+    color: #ffff;
+    font-size: 0.25em;
+}
+
+#heading {
+    margin-top: 8px;
+}
+
+
